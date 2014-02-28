@@ -12,7 +12,7 @@ This project, "<strong>DATA Currency </strong> : <i>thankful support or a piece 
 
 Data becomes a new form of currency in terms of online activities. People make positive responses through SNS, which creates remarkable fames and influences. This phenomena affects marketing system, so “click farms” became a new source of data manipulation. However, buying popularity can’t be last. It might help to a short time attraction happening, but long term reputation occurs only with good contents. 
 
-randomwalks appreciates every single “plus” even it means nothing but a coin.
+Of course, randomwalks appreciates every single given “plus” even it means nothing but a coin.
 
 
 ## Link to Prototype
