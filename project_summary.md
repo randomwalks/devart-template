@@ -1,33 +1,29 @@
 # Project Title
-Insert the name of your project
+<strong>DATA Currency </strong> : <i>thankful support or a piece of coin? </i>
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- sey min (randomwalks.org)
+- sunghun kim (randomwalks.org)
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+Social exchange (buying and selling online popularity) becomes a huge part of social media marketing industry. Online services where you can sell and buy  your “like” or “plus” are increasing dramatically, and as a result, certain companies or products can build their reputation unnaturally with those numbers. This manipulated numbers (popularity data) create a beneficial effect on SEO (Search Engine Optimization), which would attract  potential consumers’ prejudgement.
+
+This project, "<strong>DATA Currency </strong> : <i>thankful support or a piece of coin? </i>" questions to visitors about what SNS supporting activity means today. The installation presents a lucky draw machine connected to a computing system. The installed computer monitor will be populated with randomwalks’ google plus page and visitors are able to give a “plus” after reviewing randomwalks’ previous projects and activities. Once visitors make a “plus”, they can play with the lucky draw machine one time. Visitors might give a “plus” because they truly support randomwalks efforts and experiments or they just do that because of to get one of the prepared presents filled up in the lucky draw machine. Value of supporting action will be defined depending on why visitors make a “plus”. It can be a thankful support or a piece of coin. 
+
+Data becomes a new form of currency in terms of online activities. People make positive responses through SNS, which creates remarkable fames and influences. This phenomena affects marketing system, so “click farms” became a new source of data manipulation. However, buying popularity can’t be last. It might help to a short time attraction happening, but long term reputation occurs only with good contents. 
+
+randomwalks appreciates every single “plus” even it means nothing but a coin.
+
 
 ## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
+will be updated soon.
 
-[Example Link](http://www.google.com "Example Link")
 
 ## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
-```
-function test() {
-  console.log("Printing a test");
-}
-```
-## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
+will be updated soon.
 
-[Example Link](http://www.google.com "Example Link")
+## Links to External Libraries
+will be updated soon.
 
 ## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
-
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
-
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
+will be updated soon.
