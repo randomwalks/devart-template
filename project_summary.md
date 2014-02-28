@@ -1,5 +1,5 @@
-# Project Title
-<strong>DATA Currency </strong> : <i>thankful support or a piece of coin? </i>
+# 
+<h3> <strong>DATA Currency </strong> : <i>thankful support or a piece of coin? </i>
 
 ## Authors
 - sey min (randomwalks.org)
