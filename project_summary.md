@@ -44,4 +44,5 @@ will be updated soon.
 will be updated soon.
 
 ## Images & Videos
-will be updated soon.
+- how to play with a draw machine
+
