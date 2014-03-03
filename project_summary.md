@@ -32,7 +32,9 @@ Of course, randomwalks appreciates every single given “plus” even it means n
 3. other external libraries will be updated as soon as decided.
 
 ## hardware development
-arduino
+system control board : arduino
+
+one commercial (ready made) lucky draw machine hack
 
 ## hardware External Libraries & sensors
 will be updated
