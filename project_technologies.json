@@ -1,16 +1,13 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "Google+ API"
         ],
         "platforms": [
-            "insert platforms"
+            "processing", "chrome developer tools"
         ],
         "toolkits": [
-            "insert toolkits"
+            "arduino"
         ]
-    },
-    "themes": [
-        "insert themes"
-    ]
+    }
 }
