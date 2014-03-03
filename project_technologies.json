@@ -1,10 +1,13 @@
 {
     "technologies": {
+         "languages": [
+            "javascript", "processing", "html"
+        ],
         "apis": [
-            "Google+ API"
+            "g+"
         ],
         "platforms": [
-            "processing", "chrome developer tools"
+            "arduino"
         ],
         "toolkits": [
             "arduino"
