@@ -44,5 +44,5 @@ will be updated soon.
 will be updated soon.
 
 ## Images & Videos
-- how to play with a draw machine
+[![how to play with a draw machine](http://img.youtube.com/vi/cPyPRa1F-dM/0.jpg)](http://www.youtube.com/watch?v=cPyPRa1F-dM)
 
