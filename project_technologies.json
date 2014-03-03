@@ -10,7 +10,7 @@
             "arduino"
         ],
         "toolkits": [
-            "arduino"
+            "threejs", "jquery", "webgl", "toxiclibs"
         ]
     }
 }
