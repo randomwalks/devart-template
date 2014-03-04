@@ -13,3 +13,4 @@ interaction scenario:
 4. Pick one of items by using a big pliers.
 5. 5.Visualization on the side monitor will be updated according to who has what item when where.
 
+[![wireFrame diagram]()
