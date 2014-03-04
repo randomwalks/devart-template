@@ -14,29 +14,26 @@ Data becomes a new form of currency in terms of online activities. People make p
 
 Of course, randomwalks appreciates every single given “plus” even it means nothing but a coin.
 
-## installation
+### installation specs.
 1. one computing system with a lucky draw machine
 
 2. two monitors (one for the main system, the other for only data visualization)
 
-## visual software development
+### visual software development
 1. javascript / html 5 on chrome developer tools
-
 2. processing (if need)
 
-## visual software External Libraries
+### visual software External Libraries
 1. three.js
-
 2. processing.js
- 
 3. other external libraries will be updated as soon as decided.
 
-## hardware development
-system control board : arduino
+### hardware development
+1.system control board : arduino
+2.one commercial (ready made) lucky draw machine hack
+3.sensing each drawn item
 
-one commercial (ready made) lucky draw machine hack
-
-## hardware External Libraries & sensors
+### hardware External Libraries & sensors
 will be updated
 
 ## Link to Prototype
