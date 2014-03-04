@@ -13,4 +13,4 @@ interaction scenario:
 4. Pick one of items by using a big pliers.
 5. 5.Visualization on the side monitor will be updated according to who has what item when where.
 
-[![wireFrame diagram](devart-template/project_images / drawmachine_wireFrame.jpg)
+![wireFrame diagram](https://github.com/randomwalks/devart-template/blob/master/project_images/drawmachine_wireFrame.jpg)
