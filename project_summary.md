@@ -16,7 +16,6 @@ Of course, randomwalks appreciates every single given “plus” even it means n
 
 ### installation specs.
 1. one computing system with a lucky draw machine
-
 2. two monitors (one for the main system, the other for only data visualization)
 
 ### visual software development
