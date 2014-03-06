@@ -1,5 +1,13 @@
 ###post_02: DATA source & architecture
 
-####g+ API
+####1st DATA source : google plus  API
+data access:
+data type:
+parsing timeset:
+local datasheet:
 
-####draw item API
+####2nd DATA source : lucky draw item API
+data access:
+data type:
+parsing timeset:
+local datasheet:
