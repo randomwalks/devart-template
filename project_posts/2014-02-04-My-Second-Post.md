@@ -23,16 +23,16 @@
 
 
 ####2nd DATA source : lucky draw item API (RFID or other applicapable sensors)
-data access:
-data type:
-parsing timeset:
-local datasheet:
+- approx. 10 different kind of items
+ 1. match which follower gets which item (with RFID sensor)
+ 2. drawn time
+ 3. drawn geocode
 
 ===================================================
 ####prototyping 
-1.access/parse google plus API
+1.access/parsing google plus API (Authorize requests using OAuth 2.0)
 
 
 
-2.access/parse RFID or other applicapable sensors DATA 
+2.access/parse RFID sensored DATA  (saved on a local machine)
 
