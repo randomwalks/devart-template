@@ -18,6 +18,6 @@ When a visitor follows  randomwalks google plus page on the installed computer,
 
 #### detecting a selected gift and sending data to the main system
 
-![hardware RFID reader diagram]( "hardware RFID reader diagram")
+![hardware RFID reader diagram](https://raw.github.com/randomwalks/devart-template/master/project_images/hardware_RFID_001.jpg "hardware RFID reader diagram")
 
 #### commercial (ready-made) draw machine research
