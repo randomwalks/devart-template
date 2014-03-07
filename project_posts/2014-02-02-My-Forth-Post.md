@@ -13,7 +13,11 @@ When a visitor follows  randomwalks google plus page on the installed computer,
   a) what kinds of gifts are going out and
   b) send a signal to an arduino board, which will send a signal back to a local computer database system.
 
+![hardware hacking diagram]( "hardware hacking diagram")
+
 
 #### detecting a selected gift and sending data to the main system
+
+![hardware RFID reader diagram]( "hardware RFID reader diagram")
 
 #### commercial (ready-made) draw machine research
