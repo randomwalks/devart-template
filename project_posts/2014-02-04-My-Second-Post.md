@@ -10,16 +10,16 @@
 - plus.people.list
 - plus.people.public profile
 - plus.people.get (for a full person resource)
+
 "kind": "",
-  "etag": "",
-  "objectType": "person",
-  "id": "xxxxxxxxxxxxxxxxxxx",
-  "displayName": "xxxxxx",
-  "url": "https://plus.google.com/xxxxxxxxxxxxxxxxx",
-  "image": {
-   "url": "https://lh6.googleusercontent.com/-uk2fwbI-WrA/AAAAAAAAAAI/AAAAAAAAAKE/xxxxxxxxxxxxxxxxx"
-  }
- },
+"etag": "",
+"objectType": "person",
+"id": "xxxxxxxxxxxxxxxxxxx",
+"displayName": "xxxxxx",
+"url": "https://plus.google.com/xxxxxxxxxxxxxxxxx",
+"image": {
+"url": "https://lh6.googleusercontent.com/-uk2fwbI-WrA/AAAAAAAAAAI/AAAAAAAAAKE/xxxxxxxxxxxxxxxxx"}
+},
 
 
 ####2nd DATA source : lucky draw item API (RFID or other applicapable sensors)
