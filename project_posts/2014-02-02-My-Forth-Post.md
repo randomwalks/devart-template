@@ -1,4 +1,4 @@
-### post_03: hardware plan
+### post_04: hardware plan
 
 #### commercial (ready-made) draw machine research
 
