@@ -9,7 +9,3 @@ Collected data will be visualized on the secondary monitor, which will be instal
 2. how often new followers occurred.
 3. entire followers pattern over time
 
-- sorted by lucky draw items
-4. item taken by the new follower
-5. who are followers took same kind of item
-
