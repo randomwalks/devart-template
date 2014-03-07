@@ -14,6 +14,6 @@ When a visitor follows  randomwalks google plus page on the installed computer,
   b) send a signal to an arduino board, which will send a signal back to a local computer database system.
 
 
-#### RFID reader setting
+#### detecting a selected gift and sending data to the main system
 
 #### commercial (ready-made) draw machine research
