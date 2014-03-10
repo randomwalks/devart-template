@@ -33,7 +33,10 @@ timeline (bottom side) : starting from the exhibition starting day to the end.
 items (top side) : 10~ 15 kinds of items including “no item”
 connection (middle) : which item belongs to whom
 ![visualization sketch_screen_01]( https://raw.github.com/randomwalks/devart-template/master/project_images/visualization_screen_001.jpg "visualization sketch_screen_01")
-1: idle state
 
-2:interaction state
+1) idle state
+playing visualization based on time. Each new follower pitstop, corresponding item becomes highlighted and other related followers will be brighten as well. This will play over and over until interaction (means a new follower comes in) happens.
+
+2) interaction state
+Once a new follower happens, timeline animation stops. A new pitstop for the new follower will be shown on timeline and it will be connected to an item selected by that person. Other information of the day will be shown at bottom and other connections only related to the selected item will be highlighted.
 
