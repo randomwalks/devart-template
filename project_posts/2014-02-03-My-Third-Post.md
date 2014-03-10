@@ -33,4 +33,7 @@ timeline (bottom side) : starting from the exhibition starting day to the end.
 items (top side) : 10~ 15 kinds of items including “no item”
 connection (middle) : which item belongs to whom
 ![visualization sketch_screen_01]( https://raw.github.com/randomwalks/devart-template/master/project_images/visualization_screen_001.jpg "visualization sketch_screen_01")
+1: idle state
+
+2:interaction state
 
