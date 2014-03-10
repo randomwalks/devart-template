@@ -21,5 +21,6 @@ b) weekdays : weekend : holidays
 3.remaining items
 
 #### timeline visualization sketch
-https://raw.github.com/randomwalks/devart-template/master/project_images/visualization_wire_timeline.jpg
+![visualization sketch_timeline]( https://raw.github.com/randomwalks/devart-template/master/project_images/visualization_wire_timeline.jpg "visualization sketch_timeline")
+
 
