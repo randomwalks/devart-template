@@ -18,5 +18,8 @@ data influence factors
 2. exhibition time
 a) opening period : mid period : end period 
 b) weekdays : weekend : holidays
-3.remaining items 
+3.remaining items
+
+#### timeline visualization sketch
+https://raw.github.com/randomwalks/devart-template/master/project_images/visualization_wire_timeline.jpg
 
