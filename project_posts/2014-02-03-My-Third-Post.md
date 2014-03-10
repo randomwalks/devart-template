@@ -28,5 +28,9 @@ b) weekdays : weekend : holidays
 ![visualization sketch_item_002](https://raw.github.com/randomwalks/devart-template/master/project_images/visualization_item_002.jpg "visualization sketch_item_002")
 
 #### visualization screen sketch
+timeline (bottom side) : starting from the exhibition starting day to the end.
+[new follower : exhibition stage (early, middle, end period ) : issues of the day (weekday, holiday, weekend, etc)]
+items (top side) : 10~ 15 kinds of items including “no item”
+connection (middle) : which item belongs to whom
 ![visualization sketch_screen_01]( https://raw.github.com/randomwalks/devart-template/master/project_images/visualization_screen_001.jpg "visualization sketch_screen_01")
 
