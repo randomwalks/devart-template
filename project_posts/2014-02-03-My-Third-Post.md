@@ -25,6 +25,8 @@ b) weekdays : weekend : holidays
 
 #### item based visualization sketch
 ![visualization sketch_item]( https://raw.github.com/randomwalks/devart-template/master/project_images/visualization_item_001.jpg "visualization sketch_item")
-![visualization sketch_item_b](https://raw.github.com/randomwalks/devart-template/master/project_images/visualization_item_001_b.jpg "visualization sketch_item_b")
-![visualization sketch_item_002]( https://raw.github.com/randomwalks/devart-template/master/project_images/visualization_item_002.jpg "visualization sketch_item_002")
+![visualization sketch_item_002](https://raw.github.com/randomwalks/devart-template/master/project_images/visualization_item_002.jpg "visualization sketch_item_002")
+
+#### visualization screen sketch
+![visualization sketch_screen_01]( https://raw.github.com/randomwalks/devart-template/master/project_images/visualization_screen_001.jpg "visualization sketch_screen_01")
 
