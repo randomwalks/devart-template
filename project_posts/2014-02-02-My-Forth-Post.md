@@ -1,5 +1,7 @@
 ### post_04: hardware plan
 
+#### different types of lucky draw machines
+![types of lucky draws](https://raw.github.com/randomwalks/devart-template/master/project_images/luckyDraw_000.jpg "types of lucky draws")
 
 #### lucky draw machine hacking plan
 
