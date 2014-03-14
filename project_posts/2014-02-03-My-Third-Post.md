@@ -1,24 +1,24 @@
 ### post_03: visualization scenario and prototype
 
 #### visualizing scenario
-Collected data will be visualized on the secondary monitor, which will be installed on the side of lucky draw machine. The visualization will display…
+On the secondary monitor, collected data will be shown.
 
-1. Who became a new follower (this person’s public profile)
+1. a new follower (this person’s public profile)
 
--sorted by timeline
+-idle state : overall timeline animation
 2. how often new followers occurred.
 3. entire followers pattern over time
 
--sorted by lucky draw items
-4. item taken by the new follower
-5. who are followers took same kind of item
+- taken gifts
+4. taken item kind by a new follower
+5. grouping followers who selected same kind of gifts
 
 data influence factors
 1. quality of randomwalks’ previous projects / activities - are they valuable enough to follow?
-2. exhibition time
+2. exhibition time period
 a) opening period : mid period : end period 
 b) weekdays : weekend : holidays
-3.remaining items
+3. number of remaining items
 
 #### time based visualization sketch
 ![visualization sketch_timeline]( https://raw.github.com/randomwalks/devart-template/master/project_images/visualization_wire_timeline.jpg "visualization sketch_timeline")
