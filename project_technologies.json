@@ -1,16 +1,30 @@
 {
     "technologies": {
          "languages": [
-            "javascript", "processing", "html"
+            "javascript",
+            "processing",
+            "html5",
+            "webGL"
         ],
         "apis": [
-            "g+"
+            "g+",
+            "google maps"
         ],
         "platforms": [
-            "arduino"
+            "arduino",
+            "chrome developer tools"
         ],
         "toolkits": [
-            "threejs", "jquery", "webgl", "toxiclibs"
-        ]
+            "three.js",
+            "toxiclibs.js"
+        ],
+         "themes": [
+        "DATA",
+        "visualization",
+        "network activities",
+        "valuable support",
+        "empowerment"
+    ]
     }
 }
+
