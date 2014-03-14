@@ -24,23 +24,19 @@ Of course, randomwalks appreciates every single given “plus” even it means n
 
 ### visual software External Libraries
 1. three.js
-2. processing.js
+2. toxiclib.js
 3. other external libraries will be updated as soon as decided.
 
 ### hardware development
 1.system control board : arduino
 2.one commercial (ready made) lucky draw machine hack
-3.sensing each drawn item
-
-### hardware External Libraries & sensors
-will be updated
-
-## Link to Prototype
-will be updated soon.
+3.RFID for gifts (or camera sensing)
 
 ## Example Code
-will be updated soon.
+1. google plus API feeding
+2. local database
+3. visualization graphic programing
 
-## Images & Videos
+## inspiration video
 [![how to play with a draw machine](http://img.youtube.com/vi/cPyPRa1F-dM/0.jpg)](http://www.youtube.com/watch?v=cPyPRa1F-dM)
 
