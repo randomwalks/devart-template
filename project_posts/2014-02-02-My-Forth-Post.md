@@ -29,4 +29,5 @@ Secondary solution of detecting kinds of gifts is using cameras. Each item has d
 ### post_04: hardware prototyping
 
 #### joystick with 2 DC motor control
+(https://docs.google.com/file/d/0B5SxHeyUnkICOXhSRENaTWtONGhfb1dZSVhqaWl5R3ZQVHYw/preview)
 
