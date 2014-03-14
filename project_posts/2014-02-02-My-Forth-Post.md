@@ -18,8 +18,12 @@ When a visitor follows  randomwalks google plus page on the installed computer,
 ![hardware hacking diagram]( https://raw.github.com/randomwalks/devart-template/master/project_images/hardware_hackingPlan_001.jpg "hardware hacking diagram")
 
 
-#### detecting a selected gift and sending data to the main system
+#### detecting a selected gift and sending data to local database
 
 ![hardware RFID reader diagram](https://raw.github.com/randomwalks/devart-template/master/project_images/hardware_RFID_001.jpg "hardware RFID reader diagram")
+
+When gifts are out, RFID tags (on the gifts) will touch one of attached RFID readers on the path way. After detecting gift kinds, RFID readers will send relevant data to the local database through Arduino.
+Secondary solution of detecting kinds of gifts is using cameras. Each item has different color, so detecting colors will deliver data of gift kind to the server.
+
 
 #### commercial (ready-made) draw machine research
