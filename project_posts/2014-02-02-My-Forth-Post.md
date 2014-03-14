@@ -29,5 +29,6 @@ Secondary solution of detecting kinds of gifts is using cameras. Each item has d
 ### post_04: hardware prototyping
 
 #### joystick with 2 DC motor control
+![2DC motor test](https://raw.github.com/randomwalks/devart-template/master/project_images/hardwarePrototyping_000.jpg "2DC motor control test")
 (https://docs.google.com/file/d/0B5SxHeyUnkICOXhSRENaTWtONGhfb1dZSVhqaWl5R3ZQVHYw/preview)
 
