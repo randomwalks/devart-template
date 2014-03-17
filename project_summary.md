@@ -1,5 +1,4 @@
-# 
-<h4> DATA Currency : <i>valuable support or a piece of coin? </i>
+# DATA Currency : <i>valuable support or a piece of coin? </i>
 
 ## Authors
 - sey min (randomwalks.org)
