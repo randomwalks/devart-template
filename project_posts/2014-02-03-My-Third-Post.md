@@ -15,14 +15,17 @@ b) weekdays : weekend : holidays
 3. number of remaining items
 
 #### idle state: time based visualization
+Informative visuals
+
 ![visualization sketch_timeline]( https://raw.github.com/randomwalks/devart-template/master/project_images/visualization_wire_timeline.jpg "visualization sketch_timeline")
 
 ![visualization wireframe_timeline](https://raw.github.com/randomwalks/devart-template/master/project_images/dataviz_idleStage.jpg "visualization wireframe_timeline")
 
 1. timeline loops.
 2. exhibition days special issue indication : weekday/weekend/holidays
-3. focused day gets larger.
-4. followers corresponding to a focused day will be displayed in details.
+3. remaining item numbers.
+4. focused day gets larger.
+5. followers corresponding to a focused day will be displayed in details.
 
 #### idle state : item based visualization sketch
 ![visualization sketch_item]( https://raw.github.com/randomwalks/devart-template/master/project_images/visualization_item_001.jpg "visualization sketch_item")
