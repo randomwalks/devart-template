@@ -28,6 +28,10 @@ Informative visuals
 
 key functions : webGL, multi-window, communicating between windows. dropping a specific day related information to a right window.
 
+reference : 
+http://www.infimum.dk/HTML/JSwindows.html
+
+
 #### idle state : item based visualization sketch
 ![visualization sketch_item]( https://raw.github.com/randomwalks/devart-template/master/project_images/visualization_item_001.jpg "visualization sketch_item")
 ![visualization sketch_item_002](https://raw.github.com/randomwalks/devart-template/master/project_images/visualization_item_002.jpg "visualization sketch_item_002")
