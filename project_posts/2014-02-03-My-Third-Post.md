@@ -21,11 +21,12 @@ Informative visuals
 
 ![visualization wireframe_timeline](https://raw.github.com/randomwalks/devart-template/master/project_images/dataviz_idleStage.jpg "visualization wireframe_timeline")
 
-1. timeline loops.
+1. timeline loops over and over during idle.
 2. exhibition days special issue indication : weekday/weekend/holidays
-3. remaining item numbers.
-4. focused day gets larger.
-5. followers corresponding to a focused day will be displayed in details.
+3. entire exhibition timeline will be shown on back side.
+4. each day has its own window containing the day's followers, taken items, etc. Focused day has a larger window than the rest. Due to safe rendering, multi-windows will be limited 5 (or more).
+
+key functions : webGL, multi-window, communicating between windows. dropping a specific day related information to a right window.
 
 #### idle state : item based visualization sketch
 ![visualization sketch_item]( https://raw.github.com/randomwalks/devart-template/master/project_images/visualization_item_001.jpg "visualization sketch_item")
