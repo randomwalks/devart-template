@@ -29,3 +29,4 @@ When gifts are on the way of out, RFID tags (on the gifts) will touch one of att
 ![hardware color detector diagram](https://raw.github.com/randomwalks/devart-template/master/project_images/hardware_color_000.jpg "hardware color detector diagram")
 
 Secondary solution of detecting gift kinds is a color detecting process. Each item has a different color depending on its kinds (which we will limit approximately less than 10 in this case), so color information will deliver data of gift kind to the server.
+In this case, each item will be encapsulated by a solid color capsule pack.
