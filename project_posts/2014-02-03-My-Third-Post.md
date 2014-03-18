@@ -14,7 +14,7 @@ a) opening period : mid period : end period
 b) weekdays : weekend : holidays
 3. number of remaining items
 
-#### idle state: time based visualization
+#### idle state: timeline based visualization
 Informative visuals
 
 ![visualization sketch_timeline]( https://raw.github.com/randomwalks/devart-template/master/project_images/visualization_wire_timeline.jpg "visualization sketch_timeline")
@@ -31,10 +31,9 @@ key functions : webGL, multi-window, communicating between windows. dropping a s
 reference : 
 http://www.infimum.dk/HTML/JSwindows.html
 
+#### interaction state :  whe a new follower happens
+![visualization wireFrame](https://raw.github.com/randomwalks/devart-template/master/project_images/dataViz_interactionStage.jpg "visualization_wireFrame_interaction")
 
-#### idle state : item based visualization sketch
-![visualization sketch_item]( https://raw.github.com/randomwalks/devart-template/master/project_images/visualization_item_001.jpg "visualization sketch_item")
-![visualization sketch_item_002](https://raw.github.com/randomwalks/devart-template/master/project_images/visualization_item_002.jpg "visualization sketch_item_002")
-
-#### interaction state: 
+1. When visitors become new followers, 3D water space will be shown at the monitor.
+2. A mesh surface or generative form stands for randomwalks will be lift up by a new follower's power.
 
