@@ -25,7 +25,7 @@ When a visitor follows  randomwalks google plus page on the installed computer,
 
 When gifts are on the way of out, RFID tags (on the gifts) will touch one of attached RFID readers on the path way. After detecting gift kinds, RFID readers will send relevant data to the local database through Arduino.
 
-#####3-1. Color detection
-![hardware RFID reader diagram](https://raw.github.com/randomwalks/devart-template/master/project_images/hardware_RFID_001.jpg "hardware RFID reader diagram")
+#####3-2. Color detection
+![hardware color detector diagram](https://raw.github.com/randomwalks/devart-template/master/project_images/hardware_color_000.jpg "hardware color detector diagram")
 
 Secondary solution of detecting gift kinds is a color detecting process. Each item has a different color depending on its kinds (which we will limit approximately less than 10 in this case), so color information will deliver data of gift kind to the server.
