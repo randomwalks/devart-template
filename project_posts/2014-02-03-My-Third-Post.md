@@ -35,5 +35,5 @@ http://www.infimum.dk/HTML/JSwindows.html
 ![visualization wireFrame](https://raw.github.com/randomwalks/devart-template/master/project_images/dataViz_interactionStage.jpg "visualization_wireFrame_interaction")
 
 1. When visitors become new followers, 3D water space will be shown at the monitor.
-2. A mesh surface or generative form stands for randomwalks will be lift up by a new follower's power.
+2. A mesh surface or generative form standing for randomwalks will be lift up by a new follower's power.
 
