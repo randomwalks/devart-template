@@ -12,6 +12,39 @@
 
 [![2DC motor test](http://img.youtube.com/vi/UFISVXR65ws/0.jpg)](https://www.youtube.com/watch?v=UFISVXR65ws)
 
+```
+#code sample : motor control
+sensorValue = analogRead(analogInPin);
+  // if the switch is high, motor will turn on one direction:
+  if (sensorValue>0 && sensorValue<=200) {
+	motorStop();
+  }
+  // if the switch is low, motor will turn in the other direction:
+  else if(sensorValue > 200 && sensorValue <=500){
+	clockwise();
+  }
+  else if (sensorValue > 500){
+	counterclockwise();
+  }
+  Serial.println(sensorValue);  
+}
+
+void clockwise()
+{
+  digitalWrite(motor1Pin, LOW);   // set leg 1 of the H-bridge low
+  digitalWrite(motor2Pin, HIGH);  // set leg 2 of the H-bridge high
+}
+void counterclockwise()
+{
+  digitalWrite(motor1Pin, HIGH);   // set leg 1 of the H-bridge low
+  digitalWrite(motor2Pin, LOW);  // set leg 2 of the H-bridge high
+}
+void motorStop()
+{
+  digitalWrite(motor1Pin, LOW);   // set leg 1 of the H-bridge low
+  digitalWrite(motor2Pin, LOW);  // set leg 2 of the H-bridge high
+}
+```
 
 #### color detecting system test
 ![color sensor test](https://raw.github.com/randomwalks/devart-template/master/project_images/hardware_colorSensingTEST.jpg "color sensor test")
