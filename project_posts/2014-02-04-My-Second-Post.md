@@ -29,7 +29,6 @@ refer this prototype to hardware TEST 2nd.
 
 ```
 #code sample : to get users list and profile
-
 people: function() {
       var request = gapi.client.plus.people.list({ 
         'userId': 'me', 
