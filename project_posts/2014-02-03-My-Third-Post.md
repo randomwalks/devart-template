@@ -1,6 +1,10 @@
 ### post_03: visualization scenario and prototype
 
+(updated 2014-03-21)
+
 #### visualizing scenario omn the secondary monitor
+comment :
+As a visual challenge, multi windows will represent an each day of exhibition. And Any focusd day will be larger than the others, and each window will have related data (new followers corrensponding that day). We thought about breaking the visuals in two. 1) timeline 2) influence of new followers of randomwalks. However, we are still thinking the best way of communicate right information with visitors.
 
 1. a new follower
 2. followers occuring pattern over time
