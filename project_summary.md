@@ -26,7 +26,8 @@ Of course, randomwalks appreciates every single given “plus” even it means n
 ### visual software External Libraries
 1. [three.js](https://www.threejs.org)
 2. [toxiclib.js](https://www.http://haptic-data.com/toxiclibsjs/)
-3. other external libraries according to our development.
+3. jQuery
+4. other external libraries according to our development.
 
 ### hardware development
 1.system control board : arduino
