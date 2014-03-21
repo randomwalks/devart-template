@@ -1,4 +1,5 @@
 ### post_01 : Interaction scenario wireframe
+(updated : 2014-03-21)
 
 interaction scenario:
 1. Visitors approach to the hacked lucky draw machine.
@@ -7,11 +8,11 @@ interaction scenario:
     a.main computing system - populated with randomwalks google plus page
     b. lucky draw machine with a hanging pliers.
     c. external monitor (on the side) populated with collected DATA 
-
-2.Visitors can follow randomwalks page with their google account on the installed computer.
-3.Once they follow the page, one free draw will be given to a follower.
-4. Pick one of items by using a big pliers.
-5. 5.Visualization on the side monitor will be updated according to who has what item when where.
+ 
+2. Visitors can "plus" randomwalks with their google account on the installed computer.
+3. Once they "plus", one free draw will be given to a new supporter.
+4. Pick one of items in the hacked lucky draw machine by using the installed big pliers.
+5. 5.Visualization on the side monitor shows who, when, what items taken.
 
 ![interaction wireframe](https://raw.github.com/randomwalks/devart-template/master/project_images/drawmachine_wireFrame.jpg "interaction wireFrame")
 .....![sketch](https://raw.github.com/randomwalks/devart-template/master/project_images/drawMachine_revised.jpg "sketch")
