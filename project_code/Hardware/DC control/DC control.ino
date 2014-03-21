@@ -7,30 +7,13 @@ const int motor2Pin = 4;    // H-bridge leg 2 (pin 7, 2A)
 const int enablePin = 9;    // H-bridge enable pin
 int sensorValue = 0; 
 
-long counter=0;
-long counter2=0;
-
-int led_0 = 11;
-int led_1 = 12;
-
-Servo myservo; 
-
 
 void setup() {
   Serial.begin(9600); 
-  // set the switch as an input:
-  pinMode(led_0, OUTPUT);
-  pinMode(led_1, OUTPUT);    
-
-
-
-  myservo.attach(9); 
-  // set all the other pins you're using as outputs:
   pinMode(motor1Pin, OUTPUT);
   pinMode(motor2Pin, OUTPUT);
   pinMode(enablePin, OUTPUT);
 
-  // set enablePin high so that motor can turn on:
   //digitalWrite(enablePin, HIGH);
 }
 void loop() {
@@ -38,32 +21,10 @@ void loop() {
   // if the switch is high, motor will turn on one direction:
   if (sensorValue>300 ) {
     clockwise();
-    digitalWrite(led_0, HIGH);
-    digitalWrite(led_1, HIGH);
-    counter++;
-    counter2=0;
-
-    myservo.write(0);              // tell servo to go to position in variable 'pos' 
-    //delay(5);                       // waits 15ms for the servo to reach the position 
-
-    if (counter > 300){
-      motorStop();
-    }
   }
   else{
     counterclockwise();
-    digitalWrite(led_0, LOW);
-    digitalWrite(led_1, LOW);
     counter=0;
-    counter2++;
-
-    myservo.write(100);              // tell servo to go to position in variable 'pos' 
-    //delay(5);                       // waits 15ms for the servo to reach the position 
-
-    if (counter2 > 300){
-      motorStop();
-    }
-
   }
   Serial.print("sensor = " );                       
   Serial.print(sensorValue);      
