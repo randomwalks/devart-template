@@ -4,7 +4,8 @@
             "javascript",
             "processing",
             "html5",
-            "webGL"
+            "webGL",
+            "jQuery"
         ],
         "apis": [
             "g+",
