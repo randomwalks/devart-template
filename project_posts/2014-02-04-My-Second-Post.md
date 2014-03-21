@@ -11,6 +11,11 @@
 - plus.people.public profile
 - plus.people.get (for a full person resource)
 
+```
+# code sample
+
+```
+
 "kind": "",
 "etag": "",
 "objectType": "person",
