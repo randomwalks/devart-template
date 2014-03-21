@@ -1,7 +1,7 @@
 ### post_01 : Interaction scenario wireframe
-(updated : 2014-03-21)
+##### (updated : 2014-03-21)
 
-interaction scenario:
+####interaction scenario:
 1. Visitors approach to the hacked lucky draw machine.
 
   The hacked lucky draw machine has three parts :
