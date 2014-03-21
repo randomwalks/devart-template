@@ -18,9 +18,10 @@ Of course, randomwalks appreciates every single given “plus” even it means n
 1. one computing system with a lucky draw machine
 2. two monitors (one for the main system, the other for data visualization)
 
-### visual software development
+### software (data crolling/ database / visual graphics) development
 1. javascript / html 5 on chrome developer tools
-2. processing (if need)
+2. [processing](https://www.processing.org)(if need or for prototyping)
+3. [google plus API javascript](https://developers.google.com/+/quickstart/javascript)
 
 ### visual software External Libraries
 1. [three.js](https://www.threejs.org)
