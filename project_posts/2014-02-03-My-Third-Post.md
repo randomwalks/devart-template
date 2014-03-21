@@ -32,6 +32,10 @@ Informative visuals
 
 key functions : webGL, multi-window, communicating between windows. dropping a specific day related information to a right window.
 
+![multiwindow test](https://raw.githubusercontent.com/randomwalks/devart-template/master/project_images/datavis_multiwindow_test_000.jpg "multiwindow test")
+
+![multiwindow test](https://raw.githubusercontent.com/randomwalks/devart-template/master/project_images/dataviz_multiwindow_test_001.jpg "multiwindow test")
+
 reference : 
 http://www.infimum.dk/HTML/JSwindows.html
 
