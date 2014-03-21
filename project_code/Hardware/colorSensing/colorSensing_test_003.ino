@@ -1,46 +1,4 @@
-/*
-  ADJD-S311 Color Sensor Breakout Example Code
-  by: Jim Lindblom
-  SparkFun Electronics
-  date: 8/9/11
-  License: MIT license (http://www.opensource.org/licenses/mit-license.php)  
-  This code is slightly modified from that posted on bildr.org's
-  excellent tutorial (http://bildr.org/2011/01/adjd-s371-tutorial/), which
-  was taken from Marcus' great initial code
-  (http://interactive-matter.eu/2008/08/tinkering-with-adjd-s371-q999/).
-  Thanks to Adam and Marcus for the initial code! I'd definitely recommend checking out 
-  their tutorial/posts.
 
-  This example code initializes and calibrates the sensor upon startup. When calibrating
-  the code is assuming the sensor is faced with a stable WHITE source. To best calibrate
-  the sensor's capacitor and integration registers, it needs to be looking at a usual white
-  object at calibration.
-  
-  After start-up, the sensor will wait for serial input. Open up the serial 
-  monitor at 9600 bps. A space ' ', will prompt the sensor for all of it's register
-  values. 'c' will perform calibration (make sure it's aimed at a white object. 'o' 
-  will get the offset values (these are not trimmed, see getOffset() function). And 'l'
-  will continously get the sensor readings and output them to an RGB LED.
-  
-  You may want to try with the sensor's LED (connected to Arduino pin 2) both on and off.
-  I usually get better results with the LED off, but it depends on the object being sensed.
-  It does a really good job of sensing colors off my LCD monitor.
-
-  the hookup:
-  ADJD-S311 Breakout ------------- Arduino
-  ----------------------------------------
-      LED ---------------------------D2
-      3.3V -------------------------3.3V
-      GND -------------------------- GND
-      SCL -------------------------- A5
-      SDA -------------------------- A4
-      GND -------------------------- GND  
-      SLP --------------------- Not connected
-      CLK --------------------- Not connected
-*/
-#include <Wire.h>  // We use Wire.h to talk I2C to the sensor
-
-// ADJD-S311's I2C address, don't change
 #define ADJD_S311_ADDRESS 0x74
 
 #define RED 0
