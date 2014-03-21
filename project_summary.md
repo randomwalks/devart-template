@@ -41,7 +41,7 @@ Of course, randomwalks appreciates every single given “plus” even it means n
 ## inspiration video
 
 ### DATA currencty : network activities
-This proposal is part of our series work of "data currency". First project of series is "data currency : network activity", which questionling how we can measure our labors of network activities. A customized hybrid table (computing system with knitting machine) generates power to run the installed kintting machine while visitors can do google search. The amount of generated power isepending on values of searched keywords.
+This proposal is a part of our series work of "data currency". First project of series is "data currency : network activity", which questionling how we can measure our labors of network activities. A customized hybrid table (computing system with knitting machine) generates power to run the installed kintting machine while visitors can do google search. The amount of generated power isepending on values of searched keywords.
 [project page](http://randomwalks.org/public_lab/randomwalkshome/datacurrency-data-currency-powered-by-network-actions/)
 [![how to play with a draw machine](http://farm9.staticflickr.com/8252/8639998000_c972847f44.jpg)](http://vimeo.com/60152860)
 
