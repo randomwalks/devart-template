@@ -51,3 +51,27 @@ void motorStop()
 
 1. ADJD S311 color sensor : detecting items
 2. arduino : sending data
+
+```
+#code sample : color detection test
+#include <ADJDS311.h>
+#include <Wire.h>
+int sensorLed_pin = 2; //LED on the ADJDS-311
+ADJDS311 colorSensor(sensorLed_pin);
+void loop(){
+  RGBC color = colorSensor.read(); //read the color
+ 
+  Serial.print(color.red);
+  Serial.print(" | ");
+  Serial.print(color.green);
+  Serial.print(" | ");
+  Serial.print(color.blue);
+  Serial.print(" | ");
+  Serial.println(color.clear);
+ 
+  lightLED(color); //send color to the LED
+ 
+  delay(200); //just here to slow down the serial output
+}
+
+```
