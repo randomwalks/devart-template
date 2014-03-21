@@ -1,7 +1,9 @@
 ###post_02: DATA source & architecture
 
-####1st DATA source : google plus  API
--randomwalks page 
+####1st DATA source : google plus  API 
+##### (updated 2014-03-21)
+
+-randomwalks plus page 
  1. total number of followers
  2. each follower’s public profile
  3. each follower’s activity moment / timecode (when he/she plus the page)
