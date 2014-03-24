@@ -1,7 +1,7 @@
 ###post_02: DATA source & architecture
 
 ####1st DATA source : google plus  API 
-##### (updated 2014-03-21)
+##### (updated 2014-03-24)
 
 -randomwalks plus page 
  1. total number of followers
