@@ -24,6 +24,7 @@ refer this prototype to hardware TEST 2nd.
  3. drawn geocode
 
 ===================================================
+
 ####prototyping 
 1.access/parsing google plus API (Authorize requests using OAuth 2.0)
 
