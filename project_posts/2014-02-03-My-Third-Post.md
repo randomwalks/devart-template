@@ -4,22 +4,24 @@
 
 #### visualizing scenario omn the secondary monitor
 comment :
-As a visual challenge, multi windows will represent an each day of exhibition. And Any focusd day will be larger than the others, and each window will have related data (new followers corrensponding that day). We thought about breaking the visuals in two. 1) timeline 2) influence of new followers of randomwalks. However, we are still thinking the best way of communicate right information with visitors.
+As a visual challenge, a set of multi windows will represent focused days of an entire exhibition period. Focused day might be 5 to 10 days from the day OR a certain set of days (such as most popular days).Each window will contain related data (new followers corrensponding that day).
+Our early idea was....
+We thought about breaking the visuals in two. 1) timeline 2) influence of new followers of randomwalks. However, we are still thinking the best way of communicate right information with visitors.
+However, we decide to stick with one visuals including each focused days and new followers influence.
 
-1. a new follower
-2. followers occuring pattern over time
-4. taken gifts kinds by followers
+[each top windows]
+1. new followers according to each day
+4. gifts taken by followers
 5. grouping followers who selected same kind of gifts
 
-data influence factors
-1. quality of randomwalks’ previous projects / activities - are they valuable enough to follow?
-2. exhibition time period
+[behind window]
+1. exhibition time period
 a) opening period : mid period : end period 
 b) weekdays : weekend : holidays
 3. number of remaining items
 
-#### idle state: timeline based visualization
-Informative visuals
+#### visual test 
+multi windows with 3D visuals on back window
 
 ![visualization sketch_timeline]( https://raw.github.com/randomwalks/devart-template/master/project_images/visualization_wire_timeline.jpg "visualization sketch_timeline")
 
@@ -27,7 +29,7 @@ Informative visuals
 
 1. timeline loops over and over during idle.
 2. exhibition days special issue indication : weekday/weekend/holidays
-3. entire exhibition timeline will be shown on back side.
+3. entire exhibition timeline will be shown on back side. (in 3D landscape)
 4. each day has its own window containing the day's followers, taken items, etc. Focused day has a larger window than the rest. Due to safe rendering, multi-windows will be limited 5 (or more).
 
 key functions : webGL, multi-window, communicating between windows. dropping a specific day related information to a right window.
