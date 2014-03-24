@@ -41,7 +41,7 @@ key functions : webGL, multi-window, communicating between windows. dropping a s
 reference : 
 http://www.infimum.dk/HTML/JSwindows.html
 
-#### interaction state :  whe a new follower happens
+#### 3D visual on main window
 ![visualization wireFrame](https://raw.github.com/randomwalks/devart-template/master/project_images/dataViz_interactionStage.jpg "visualization_wireFrame_interaction")
 
 1. When visitors become new followers, 3D water space will be shown at the monitor.
