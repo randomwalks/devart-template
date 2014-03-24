@@ -1,6 +1,6 @@
 ### post_03: visualization scenario and prototype
 
-(updated 2014-03-21)
+(updated 2014-03-24)
 
 #### visualizing scenario omn the secondary monitor
 comment :
@@ -32,7 +32,7 @@ Informative visuals
 
 key functions : webGL, multi-window, communicating between windows. dropping a specific day related information to a right window.
 
-![multiwindow test](https://raw.githubusercontent.com/randomwalks/devart-template/master/project_images/datavis_multiwindow_test_000.jpg "multiwindow test")
+![multiwindow test](https://raw.githubusercontent.com/randomwalks/devart-template/master/project_images/dataviz_multiWindow_003.gif "multiwindow test")
 
 ![multiwindow test](https://raw.githubusercontent.com/randomwalks/devart-template/master/project_images/dataviz_multiwindow_test_001.jpg "multiwindow test")
 
