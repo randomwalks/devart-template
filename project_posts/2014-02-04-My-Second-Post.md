@@ -23,8 +23,6 @@ refer this prototype to hardware TEST 2nd.
  2. drawn time
  3. drawn geocode
 
-===================================================
-
 ####prototyping 
 1.access/parsing google plus API (Authorize requests using OAuth 2.0)
 ![people list pulling TEST](https://raw.github.com/randomwalks/devart-template/master/project_images/backEnd_pullingListPeople_000.jpg "people list pulling TEST")
