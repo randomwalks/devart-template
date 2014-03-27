@@ -1,7 +1,31 @@
 ###post_02: DATA source & architecture
 
 ####1st DATA source : google plus  API 
-##### (updated 2014-03-24)
+##### (updated 2014-03-26)
+
+###### As far as we tested, google plus API is providing data of "I" not "me", 
+which means...
+people who I am circling / not who circled "me"
+people who I am following / not who following "me"
+
+we have tested
+1. To get a list of followers (who follwing my page) : 
+we have to make a partnership with google to access any data related to a certain (my) google plus page. We decide to hold this solution because we can't find any specific information of available data according to partnership.
+
+2. Therefore, we concluded a final solution like this:
+a) create a customised web page describing randomwalks activities and mission.
+b) add a google plus button on the page, so  visitors can post it on their google plus page.
+c) This activity will spread randomwalks information out, which we consider as "support".
+d) Once visitors post randomwalks page, we can track
+ - a profile of new poster (screen name, location, posting time etc)
+ - compare number of posting and number of randomwalks circle friends or followers
+
+
+
+
+-------------------------------------------
+
+##### (test to  2014-03-21)
 
 -randomwalks plus page 
  1. total number of followers
@@ -73,7 +97,4 @@ profile: function(){
 Since location information is as users filled, so we need other API to get longitude and latitude.
 
 ```
-
-2.access/parse RFID sensored DATA  (will be saved on a local machine)
-Refer this prototype to Hardware TEST 2nd.
 
