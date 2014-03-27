@@ -3,7 +3,7 @@
 ####1st DATA source : google plus  API 
 ##### (updated 2014-03-26)
 
-###### As far as we tested, google plus API is providing data of "I" not "me", 
+###### As far as we tested, google plus API is providing data related to "I" not "me", 
 which means...
 people who I am circling / not who circled "me"
 people who I am following / not who following "me"
@@ -12,13 +12,14 @@ we have tested
 1. To get a list of followers (who follwing my page) : 
 we have to make a partnership with google to access any data related to a certain (my) google plus page. We decide to hold this solution because we can't find any specific information of available data according to partnership.
 
-2. Therefore, we concluded a final solution like this:
-a) create a customised web page describing randomwalks activities and mission.
-b) add a google plus button on the page, so  visitors can post it on their google plus page.
-c) This activity will spread randomwalks information out, which we consider as "support".
-d) Once visitors post randomwalks page, we can track
- - a profile of new poster (screen name, location, posting time etc)
- - compare number of posting and number of randomwalks circle friends or followers
+2. Instead, we concluded a final solution like this:
+a) create a customized web page describing randomwalks activities and mission.
+b) update this page with data of randomwalks plus page news.
+c) add a google plus button on the customized page, and visitors can re-post it ("plus") after login with their google account.
+d) This activity will spread randomwalks information out, which we consider as "support".
+d) Once visitors post randomwalks information on thier plus page, we can track
+ - a profile of new user/ and list of users (screen name, location, posting time etc)
+ - compare number of posting ("plus") and number of randomwalks plus page followers
 
 ![data flow plan](https://raw.github.com/randomwalks/devart-template/master/project_images/dataFlow.jpg "data flow plan")
 
