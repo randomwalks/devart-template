@@ -20,6 +20,7 @@ d) Once visitors post randomwalks page, we can track
  - a profile of new poster (screen name, location, posting time etc)
  - compare number of posting and number of randomwalks circle friends or followers
 
+![data flow plan](https://raw.github.com/randomwalks/devart-template/master/project_images/dataFlow.jpg "data flow plan")
 
 
 
