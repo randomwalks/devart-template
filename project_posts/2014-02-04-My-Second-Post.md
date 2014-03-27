@@ -13,13 +13,14 @@ we have tested
 we have to make a partnership with google to access any data related to a certain (my) google plus page. We decide to hold this solution because we can't find any specific information of available data according to partnership.
 
 2. Instead, we concluded a final solution like this:
+
 a) create a customized web page describing randomwalks activities and mission.
 b) update this page with data of randomwalks plus page news.
 c) add a google plus button on the customized page, and visitors can re-post it ("plus") after login with their google account.
 d) This activity will spread randomwalks information out, which we consider as "support".
-d) Once visitors post randomwalks information on thier plus page, we can track
- - a profile of new user/ and list of users (screen name, location, posting time etc)
- - compare number of posting ("plus") and number of randomwalks plus page followers
+e) Once visitors post randomwalks information on thier plus page, we can track
+- a profile of new user/ and list of users (screen name, location, posting time etc)
+- compare number of posting ("plus") and number of randomwalks plus page followers
 
 ![data flow plan](https://raw.github.com/randomwalks/devart-template/master/project_images/dataFlow.jpg "data flow plan")
 
