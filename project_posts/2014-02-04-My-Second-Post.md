@@ -9,16 +9,16 @@ people who I am circling / not who circled "me"
 people who I am following / not who following "me"
 
 we have tested
-1. To get a list of followers (who follwing my page) : 
+A. To get a list of followers (who follwing my page) : 
 we have to make a partnership with google to access any data related to a certain (my) google plus page. We decide to hold this solution because we can't find any specific information of available data according to partnership.
 
-2. Instead, we concluded a final solution like this:
+B. Instead, we concluded a final solution like this:
 
-a) create a customized web page describing randomwalks activities and mission.
-b) update this page with data of randomwalks plus page news.
-c) add a google plus button on the customized page, and visitors can re-post it ("plus") after login with their google account.
-d) This activity will spread randomwalks information out, which we consider as "support".
-e) Once visitors post randomwalks information on thier plus page, we can track
+1. create a customized web page describing randomwalks activities and mission.
+2. update this page with data of randomwalks plus page news.
+3. add a google plus button on the customized page, and visitors can re-post it ("plus") after login with their google account.
+4. This activity will spread randomwalks information out, which we consider as "support".
+5. Once visitors post randomwalks information on thier plus page, we can track
 - a profile of new user/ and list of users (screen name, location, posting time etc)
 - compare number of posting ("plus") and number of randomwalks plus page followers
 
