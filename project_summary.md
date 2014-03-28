@@ -39,7 +39,7 @@ Of course, randomwalks appreciates every single given “plus” even it means n
 ## Example Code
 1.[google plus API feeding](https://github.com/randomwalks/devart-template/blob/master/project_code/DATA_gplus/gplus-quickstart-javascript-mastery/index.html)
 2.[visualization graphic programing](https://github.com/randomwalks/devart-template/blob/master/project_code/Visual_js/multiwindows/index.html)
-3.[sensing color with arduino](https://github.com/randomwalks/devart-template/tree/master/project_code/Hardware)
+3.[sensing item kind by color with arduino](https://github.com/randomwalks/devart-template/tree/master/project_code/Hardware)
 
 ## inspiration video
 
