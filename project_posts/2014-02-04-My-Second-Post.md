@@ -1,7 +1,7 @@
 ###post_02: DATA source & architecture
 
 ####1st DATA source : google plus  API 
-##### (updated 2014-03-26)
+##### (updated 2014-03-28)
 
 ###### As far as we tested, google plus API is providing data related to "I" not "me", 
 which means...
@@ -16,12 +16,12 @@ B. Instead, we concluded a final solution like this:
 
 1. create a customized web page describing randomwalks activities and mission.
 2. update this page with data of randomwalks plus page news.([activities : list](https://developers.google.com/+/api/latest/activities/list))
-3. add a google plus button on the customized page, and visitors can re-post it ("plus") after login with their google account. 
+3. add a google plus button on the customized page, and visitors can re-post it ("plus") after login with their google accounts. 
 4. get a list of people who add "plus" on this content. ([people.listByActivity](https://developers.google.com/+/api/latest/people/listByActivity))
 5. This activity will spread randomwalks information out, which we consider as "support".
 6. Once visitors post randomwalks information on thier plus page, we can track
 - a profile of new user/ and list of users (screen name, location, posting time etc)
-- compare number of posting ("plus") and number of randomwalks plus page followers
+- compare number of posting ("plus") and number of randomwalks plus page followers or circle friends
 
 ![data flow plan](https://raw.github.com/randomwalks/devart-template/master/project_images/dataFlow.jpg "data flow plan")
 
