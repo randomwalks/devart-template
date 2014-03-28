@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="./css/style.css">
+<script type="text/javascript" src="./js/main.js" ></script>
+</head>
+<body>
+	<script src="./js/Three.js"></script>
+	<script src="./js/three.min.js"></script>
+<script>
+	var container, scene, camera, renderer, cube;
+
+	var halfW = window.innerWidth/2;
+	var halfH = window.innerHeight/2;
+
+	var targetRotation =0;
+
+
+	//init();
+	//animate();
+
+	function init(){
+		container = document.createElement('div');
+		document.body.appendChild(container);
+
+		camera = new THREE.PerspectiveCamera(70, window.innerWidth/window.innerHeight, 1, 1000);
+		camera.position.y=halfH;
+		camera.position.x=halfW;
+		camera.position.z=500;
+
+		scene = new THREE.Scene();
+
+		var geometry = new THREE.CubeGeometry (halfW*0.5, halfH*0.5, halfW*0.5);
+		
+
+				for (var i=0; i< geometry.faces.length; i++){
+			geometry.faces[i].color.setHex(Math.random()*0xffffff);
+		}
+		var material=new THREE.MeshBasicMaterial({vertexColors:THREE.FaceColors});
+
+		//var material = new THREE.MeshBasicMaterial({color:Math.random()*0xffffff, wireframe:false});
+
+	
+
+		cube = new THREE.Mesh(geometry, material);
+		cube.position.y=halfH;
+		cube.position.x=halfW;
+		scene.add(cube);
+
+/*
+		//lights
+		scene.add( new THREE.AmbientLight( 0x000000) );
+		var directionalLight = new THREE.DirectionalLight( Math.random() * 0xffffff );
+		directionalLight.position.x = Math.random() - 0.5;
+		directionalLight.position.y = Math.random() - 0.5;
+		directionalLight.position.z = Math.random() - 0.5;
+		directionalLight.position.normalize();
+		scene.add( directionalLight );
+		var pointLight = new THREE.PointLight( 0xffffff, 1 );
+		scene.add( pointLight );
+*/
+
+		renderer = new THREE.CanvasRenderer();
+		renderer.setSize(window.innerWidth, window.innerHeight);
+		container.appendChild(renderer.domElement);
+
+		window.addEventListener ('mouseMove', onDocumentMouseDown, false);
+
+		window.addEventListener('resize', onWindowResize, false);
+
+	}
+
+	function onWindowResize(){
+		halfW= window.innerWidth/2;
+		halfH = window.innerHeight/2;
+
+		camera.aspect = window.innerWidth/window.innerHeight;
+		camera.updateProjectionMatrix();
+
+		renderer.setSize(window.innerWidth, window.innerHeight);
+	}
+
+	function onDocumentMouseDown(evnet){
+		event.preventDefault();
+		targetRotation = (Math.PI*4)*(event.clientX-halfW)/window.innerWidth;
+		//alert(event.clientX + " : " + targetRotation);
+	}
+
+	
+
+	function animate(){
+		requestAnimationFrame(animate);
+		render();
+	}
+
+	function render(){
+       targetRotation = (Math.PI*4)*(100-halfW)/window.innerWidth;
+		cube.rotation.y+=(targetRotation-cube.rotation.y)*0.25;
+		cube.rotation.x+=Math.random()*0.05;
+		renderer.render(scene, camera);
+	}
+
+
+	</script>
+
+<!----    
+<g>
+<svg >
+
+<rect id="r_01" x="0" y="0" width="10" height="10" fill="red"></rect>
+<rect id="r_02" x="0" y="0" width="10" height="10" fill="red"></rect>
+<rect id="r_03" x="0" y="0" width="10" height="10" fill="red"></rect>
+<rect id="r_04" x="0" y="0" width="10" height="10" fill="red"></rect>
+<rect id="r_05" x="0" y="0" width="10" height="10" fill="red"></rect>
+
+</svg>
+</g>
+---->
+</body>
+</body>
+
+</html>
