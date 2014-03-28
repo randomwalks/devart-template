@@ -78,6 +78,11 @@ void loop(){
 #### RFID sensing structure test
 We have tested mockup RFID (stickers and readers) process through a lucky draw machine’s internal pathway. We found multi reader setting with multi stickers on the gifts will deliver positive results of detecting item kinds.
 
-1. RFID stickers on gifts
-2. RFID readers on a lucky draw machine internal structure (ball slider)
+1. RFID sticker marks on gifts
+![RFID STICKER MARKS](https://raw.github.com/randomwalks/devart-template/master/project_images/rfid_ball_01.jpg "RFID sticker marks")
+
+2. RFID reader spots on a lucky draw machine internal structure (ball slider)
+![RFID reader spots](https://raw.github.com/randomwalks/devart-template/master/project_images/rfid_ball_02.jpg "RFID reader spots")
+
 3. test of high possibility spots of ball slider
+![test of possibility](https://raw.github.com/randomwalks/devart-template/master/project_images/rfid_ball_03.jpg "test of possibility")
