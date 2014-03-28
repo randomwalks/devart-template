@@ -4,32 +4,31 @@
 
 #### visualization on secondary monitor
 comment :
-As a visual challenge, a set of multi windows will represent an entire exhibition period. Each window will contain related data (new plus users corrensponding that day).
-Our early idea was....
-We thought about breaking the visuals into two. 1) timeline 2) influence of new followers of randomwalks. We are still thinking the best way of communicate right information with visitors. Therefore, we decide to stick with one visuals including each focused days and new followers influence.
+As visual challenges, multi windows will represent the entire exhibition period day by day. Each window will contain daily related data such as who gave "plus" today, time-code, taken items etc. Our early idea was about breaking the visuals into two sections. 1) timeline 2) influence of "plus" to randomwalks. We are still figuring out the best communication way of delivering right information to the visitors. Therefore, we decide to stick with one combined visual of daily increase and entire change.
 
 [front/small windows]
-1. new followers according to each day
-4. gifts taken by followers
-5. grouping followers who selected same kind of gifts
+1. new "plus" users of a day
+4. gifts taken by today "plus" users
+5. grouping users who selected same kind gifts
 
-[behind main window]
-1. exhibition time period
+[behind/main window]
+1. influence factor of time 
 a) opening period : mid period : end period 
 b) weekdays : weekend : holidays
-3. number of remaining items
+2. number of remaining items
+3. compare "plus" increase and change of randomwalks followers or circle friends
+
 
 #### visual test 
-multi windows with 3D visuals on the behind windowwindow
+multi windows with 3D shape on the behind windowwindow
 
 ![visualization sketch_timeline]( https://raw.github.com/randomwalks/devart-template/master/project_images/visualization_wire_timeline.jpg "visualization sketch_timeline")
 
 ![visualization wireframe_timeline](https://raw.github.com/randomwalks/devart-template/master/project_images/dataviz_idleStage.jpg "visualization wireframe_timeline")
 
-1. timeline loops over and over during idle perid.
-2. exhibition days special issue indication : weekday/weekend/holidays
-3. entire exhibition timeline will be shown on back side. (in 3D landscape)
-4. each day has its own window containing the day's followers, taken items, etc. Focused day has a larger window than the rest. Due to safe rendering, multi-windows will be limited 5 (or more).
+1. during idle state, multi windows will animate smoothly from begining to end. Due to safe rendering, multi-windows might  be limited to a certain number. In this case, multi-windows will change position to represent different days.
+2 & 3. entire exhibition timeline will be shown : weekday/weekend/holidays
+4. each day has its own window containing the day's new "plus" user list, taken items, etc.
 
 key functions : webGL, multi-window, communicating between windows. dropping related information to a right window.
 
@@ -43,6 +42,6 @@ http://www.infimum.dk/HTML/JSwindows.html
 #### 3D visual on main window
 ![visualization wireFrame](https://raw.github.com/randomwalks/devart-template/master/project_images/dataViz_interactionStage.jpg "visualization_wireFrame_interaction")
 
-1. When visitors make a "plus", 3D water space will be shown at the monitor.
-2. A mesh surface or generative form standing for randomwalks will be lift up by a new "plus" power.
+1. When visitors make a "plus", 3D water space will be shown at the monitor (behind of multi-windows).
+2. A mesh surface or generative form standing for randomwalks will be lift up by new "plus" power.
 
