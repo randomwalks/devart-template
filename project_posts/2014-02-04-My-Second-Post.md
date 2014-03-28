@@ -9,7 +9,7 @@ people who I am circling / not who circled "me"
 people who I am following / not who following "me"
 
 we have tested
-A. To get a list of followers (who follwing my page) : 
+A. To get a list of followers (who following my page) : 
 we have to make a partnership with google to access any data related to a certain (my) google plus page. We decide to hold this solution because we can't find any specific information of available data according to partnership.
 
 B. Instead, we concluded a final solution like this:
@@ -19,7 +19,7 @@ B. Instead, we concluded a final solution like this:
 3. add a google plus button on the customized page, and visitors can re-post it ("plus") after login with their google accounts. 
 4. get a list of people who add "plus" on this content. ([people.listByActivity](https://developers.google.com/+/api/latest/people/listByActivity))
 5. This activity will spread randomwalks information out, which we consider as "support".
-6. Once visitors post randomwalks information on thier plus page, we can track
+6. Once visitors post randomwalks information on their plus page, we can track
 - a profile of new user/ and list of users (screen name, location, posting time etc)
 - compare number of posting ("plus") and number of randomwalks plus page followers or circle friends
 
@@ -43,7 +43,7 @@ B. Instead, we concluded a final solution like this:
 
 parameters 
 
-####2nd DATA source : lucky draw item API (RFID or other applicapable sensors)
+####2nd DATA source : lucky draw item API (RFID or other applicable sensors)
 refer this prototype to hardware TEST 2nd.
 
 - approx. 10 different kind of items
