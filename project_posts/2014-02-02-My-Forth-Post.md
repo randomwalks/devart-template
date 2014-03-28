@@ -17,7 +17,6 @@ When a visitor gives a "plus" to randomwalks page on the installed computer,
 
 ![hardware hacking diagram]( https://raw.github.com/randomwalks/devart-template/master/project_images/hardware_hackingPlan_001.jpg "hardware hacking diagram")
 
-
 #### detecting a selected gift and sending data to local database
 
 ##### 3-1. RFID
