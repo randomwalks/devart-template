@@ -24,5 +24,5 @@ transparent monitor hand-made instruction
 [how to develop a customized one] (http://www.parkoz.com/zboard/view.php?id=diy_system&page=2&sn1=&divpage=2&sn=on&ss=off&sc=off&keyword=%C0%CC%BF%F8%B4%EB&select_arrange=headnum&desc=asc&no=1309)
 
 #### response scenario:
-1. how can we engage new followers to randomwalks in long term perspective?
+1. how can we engage new followers/circle friends to randomwalks in long term perspective?
 2. how can we define which one is "support" or "a coin"?
