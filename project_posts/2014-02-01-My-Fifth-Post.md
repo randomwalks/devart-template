@@ -8,7 +8,7 @@
 
 1. arduino : computing control - sending / receiving data for a free draw
 2 . joystick : interface for DC motor -user control of a lucky draw picker
-3. DC motor + H-bridge : controling a picker position
+3. DC motor + H-bridge : controlling a picker position
 
 [![2DC motor test](http://img.youtube.com/vi/UFISVXR65ws/0.jpg)](https://www.youtube.com/watch?v=UFISVXR65ws)
 
