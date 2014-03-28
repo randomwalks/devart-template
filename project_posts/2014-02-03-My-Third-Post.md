@@ -47,8 +47,3 @@ http://www.infimum.dk/HTML/JSwindows.html
 1. When visitors become new followers, 3D water space will be shown at the monitor.
 2. A mesh surface or generative form standing for randomwalks will be lift up by a new follower's power.
 
-
-```
-# code sample
-
-```
