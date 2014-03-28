@@ -4,7 +4,7 @@
 
 #### visualization on secondary monitor
 comment :
-As visual challenges, multi windows will represent the entire exhibition period day by day. Each window will contain daily related data such as who gave "plus" today, time-code, taken items etc. Our early idea was about breaking the visuals into two sections. 1) timeline 2) influence of "plus" to randomwalks. We are still figuring out the best communication way of delivering right information to the visitors. Therefore, we decide to stick with one combined visual of daily increase and entire change.
+As visual challenges, multi windows will represent the entire exhibition period day by day. Each window will contain daily related data such as who gave "plus" today, time-code, taken items etc. Our early idea was about breaking the visuals into two sections. 1) timeline 2) influence of "plus" to randomwalks. We are still figuring out the best communication way of delivering right information to the visitors. Therefore, we decide to stick with one combined visual of daily increment and entire change.
 
 [front/small windows]
 1. new "plus" users of a day
@@ -16,7 +16,7 @@ As visual challenges, multi windows will represent the entire exhibition period 
    a) opening period : mid period : end period 
    b) weekdays : weekend : holidays
 2. number of remaining items
-3. compare "plus" increase and change of randomwalks followers or circle friends
+3. compare "plus" increment and change of randomwalks followers or circle friends
 
 
 #### visual test 
