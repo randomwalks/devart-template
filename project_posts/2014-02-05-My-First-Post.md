@@ -21,6 +21,7 @@ manufactured transparent monitor example
 ![transparent monitor](https://raw.github.com/randomwalks/devart-template/master/project_images/transparentMonitor.jpg "transparent")
 
 transparent monitor hand-made instruction
+[how to develop a customized one] (http://www.parkoz.com/zboard/view.php?id=diy_system&page=2&sn1=&divpage=2&sn=on&ss=off&sc=off&keyword=%C0%CC%BF%F8%B4%EB&select_arrange=headnum&desc=asc&no=1309)
 
 #### response scenario:
 1. how can we engage new followers to randomwalks in long term perspective?
