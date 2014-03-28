@@ -15,10 +15,11 @@ we have to make a partnership with google to access any data related to a certai
 B. Instead, we concluded a final solution like this:
 
 1. create a customized web page describing randomwalks activities and mission.
-2. update this page with data of randomwalks plus page news.
-3. add a google plus button on the customized page, and visitors can re-post it ("plus") after login with their google account.
-4. This activity will spread randomwalks information out, which we consider as "support".
-5. Once visitors post randomwalks information on thier plus page, we can track
+2. update this page with data of randomwalks plus page news.([activities : list](https://developers.google.com/+/api/latest/activities/list))
+3. add a google plus button on the customized page, and visitors can re-post it ("plus") after login with their google account. 
+4. get a list of people who add "plus" on this content. ([people.listByActivity](https://developers.google.com/+/api/latest/people/listByActivity))
+5. This activity will spread randomwalks information out, which we consider as "support".
+6. Once visitors post randomwalks information on thier plus page, we can track
 - a profile of new user/ and list of users (screen name, location, posting time etc)
 - compare number of posting ("plus") and number of randomwalks plus page followers
 
