@@ -8,13 +8,13 @@ As visual challenges, multi windows will represent the entire exhibition period 
 
 [front/small windows]
 1. new "plus" users of a day
-4. gifts taken by today "plus" users
-5. grouping users who selected same kind gifts
+2. gifts taken by today "plus" users
+3. grouping users who selected same kind gifts
 
 [behind/main window]
 1. influence factor of time 
-a) opening period : mid period : end period 
-b) weekdays : weekend : holidays
+   a) opening period : mid period : end period 
+   b) weekdays : weekend : holidays
 2. number of remaining items
 3. compare "plus" increase and change of randomwalks followers or circle friends
 
@@ -26,9 +26,9 @@ multi windows with 3D shape on the behind windowwindow
 
 ![visualization wireframe_timeline](https://raw.github.com/randomwalks/devart-template/master/project_images/dataviz_idleStage.jpg "visualization wireframe_timeline")
 
-1.during idle state, multi windows will animate smoothly from beginning to end. Due to safe rendering, multi-windows might  be limited to a certain number. In this case, multi-windows will change position to represent different days.
-2 & 3. entire exhibition timeline will be shown : weekday/weekend/holidays
-4.each day has its own window containing the day's new "plus" user list, taken items, etc.
+1. during idle state, multi windows will animate smoothly from beginning to end. Due to safe rendering, multi-windows might  be limited to a certain number. In this case, multi-windows will change position to represent different days.
+2. & 3. entire exhibition timeline will be shown : weekday/weekend/holidays
+4. each day has its own window containing the day's new "plus" user list, taken items, etc.
 key functions : webGL, multi-window, communicating between windows. dropping related information to a right window.
 
 ![multiwindow test](https://raw.githubusercontent.com/randomwalks/devart-template/master/project_images/dataviz_multiWindow_003.gif "multiwindow test")
