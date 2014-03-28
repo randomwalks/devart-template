@@ -79,12 +79,15 @@ void loop(){
 We have tested mockup RFID (stickers and readers) process through a lucky draw machine’s internal pathway. We found multi reader setting with multi stickers on the gifts will deliver positive results of detecting item kinds.
 
 1st step : RFID sticker marks on gifts
+
 ![RFID STICKER MARKS](https://raw.github.com/randomwalks/devart-template/master/project_images/rfid_ball_01.jpg "RFID sticker marks")
 
 2nd step: RFID reader spots on a lucky draw machine internal structure (ball slider)
+
 ![RFID reader spots](https://raw.github.com/randomwalks/devart-template/master/project_images/rfid_ball_02.jpg "RFID reader spots")
 
 3rd step: test of high possibility spots of ball slider
+
 ![test of possibility](https://raw.github.com/randomwalks/devart-template/master/project_images/rfid_ball_03.jpg "test of possibility")
 
 After testing 3 different balls with 3 different colors, we found that each ball leaves at least one positive mark on rectangular areas on the slope (ball slider). Therefore, if one gift has 3~4 RFID stickers on its surface, readers on the slope can detect it successfully.
