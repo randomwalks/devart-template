@@ -1,6 +1,6 @@
 ### post_05: hardware prototyping and miscellaneous issues
 
-(updated 2014-03-20)
+(updated 2014-03-27)
 
 #### joystick with 2 DC motor control
 
@@ -75,3 +75,9 @@ void loop(){
 }
 
 ```
+#### RFID sensing structure test
+We have tested mockup RFID (stickers and readers) process through a lucky draw machine’s internal pathway. We found multi reader setting with multi stickers on the gifts will deliver positive results of detecting item kinds.
+
+1. RFID stickers on gifts
+2. RFID readers on a lucky draw machine internal structure (ball slider)
+3. test of high possibility spots of ball slider
