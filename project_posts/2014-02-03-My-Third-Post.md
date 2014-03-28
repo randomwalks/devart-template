@@ -26,10 +26,9 @@ multi windows with 3D shape on the behind windowwindow
 
 ![visualization wireframe_timeline](https://raw.github.com/randomwalks/devart-template/master/project_images/dataviz_idleStage.jpg "visualization wireframe_timeline")
 
-1. during idle state, multi windows will animate smoothly from begining to end. Due to safe rendering, multi-windows might  be limited to a certain number. In this case, multi-windows will change position to represent different days.
+1.during idle state, multi windows will animate smoothly from beginning to end. Due to safe rendering, multi-windows might  be limited to a certain number. In this case, multi-windows will change position to represent different days.
 2 & 3. entire exhibition timeline will be shown : weekday/weekend/holidays
-4. each day has its own window containing the day's new "plus" user list, taken items, etc.
-
+4.each day has its own window containing the day's new "plus" user list, taken items, etc.
 key functions : webGL, multi-window, communicating between windows. dropping related information to a right window.
 
 ![multiwindow test](https://raw.githubusercontent.com/randomwalks/devart-template/master/project_images/dataviz_multiWindow_003.gif "multiwindow test")
